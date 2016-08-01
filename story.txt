@@ -1,4 +1,3 @@
 story.txt
 
-change on branch 1#  Changed by jude deng
-
+ 
